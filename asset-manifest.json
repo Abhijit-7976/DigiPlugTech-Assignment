@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DigiPlugTech-Assignment%20/static/css/main.cb40eed0.css",
-    "main.js": "/DigiPlugTech-Assignment%20/static/js/main.3b7d19f2.js",
-    "index.html": "/DigiPlugTech-Assignment%20/index.html",
-    "main.cb40eed0.css.map": "/DigiPlugTech-Assignment%20/static/css/main.cb40eed0.css.map",
-    "main.3b7d19f2.js.map": "/DigiPlugTech-Assignment%20/static/js/main.3b7d19f2.js.map"
+    "main.css": "/DigiPlugTech-Assignment/static/css/main.cb40eed0.css",
+    "main.js": "/DigiPlugTech-Assignment/static/js/main.3b7d19f2.js",
+    "index.html": "/DigiPlugTech-Assignment/index.html",
+    "main.cb40eed0.css.map": "/DigiPlugTech-Assignment/static/css/main.cb40eed0.css.map",
+    "main.3b7d19f2.js.map": "/DigiPlugTech-Assignment/static/js/main.3b7d19f2.js.map"
   },
   "entrypoints": [
     "static/css/main.cb40eed0.css",
