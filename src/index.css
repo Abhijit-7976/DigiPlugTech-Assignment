@@ -271,3 +271,8 @@ h3 {
   color: #2336ff;
   border-radius: 5px;
 }
+
+svg,
+button {
+  cursor: pointer;
+}
